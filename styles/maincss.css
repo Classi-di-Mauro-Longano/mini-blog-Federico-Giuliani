@@ -1,0 +1,29 @@
+body {
+    margin: 10px;
+    padding: 5px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 504.99999px;
+    justify-content: center;
+
+}
+
+.box1{
+    border: 2px solid lightgray;
+    border-radius: 1em;
+
+    
+}
+.fe{
+    font-size: 11px;
+}
+
+.txt{
+    font-size: 16px;
+    opacity: 45%;;
+}
